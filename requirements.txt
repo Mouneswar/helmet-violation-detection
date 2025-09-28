@@ -1,0 +1,12 @@
+opencv-python==4.9.0.80
+matplotlib==3.8.4
+numpy==1.26.4
+pillow==10.3.0
+pandas==2.2.2
+seaborn==0.13.2
+scikit-learn==1.4.2
+albumentations==1.4.8
+albucore==0.0.16
+torch==2.3.0
+notebook==7.2.0
+urtralytics==8.0.134
